@@ -1,0 +1,28 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  text-align: center;
+  color: rgb(224, 222, 219);
+  background-color: rgb(14, 14, 14);
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: 400;
+  text-align: center; 
+}
+
+.tabla{
+  margin: 0 auto;
+  width: 500px;  
+  text-align: left;
+  background-color: transparent;
+  cursor: pointer;border-width: 2px;
+  border-style: solid;
+  border-image: linear-gradient(to right, #6ee7b7, #9333ea) 1; 
+}
+
+.tabla th{  
+  border-bottom: 1px solid #454444;
+}
